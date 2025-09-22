@@ -49,8 +49,6 @@ It is **user-friendly**, **error-tolerant**, and **educational** for beginners l
 
 ## Code Structure
 
-## Code Structure
-
 CalculatorApp.java
 ├─ Calculator          # Performs arithmetic operations
 │  ├─ add()            # Overloaded: 2 ints, 2 doubles, 3 ints
